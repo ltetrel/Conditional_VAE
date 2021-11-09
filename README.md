@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ltetrel/Conditional_VAE/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ltetrel/Conditional_VAE/HEAD?filepath=Conditional_VAE.ipynb)
 
 ## conditional variational autencoder for keras
 
